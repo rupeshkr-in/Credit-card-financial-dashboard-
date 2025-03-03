@@ -12,6 +12,7 @@ Credit card financial dashboard using Power BI:
 <br>
 
 Overview YTD:
+<br>
 • Overall revenue is 55M
 • Total interest is 8M
 • Total transaction amount is 45M

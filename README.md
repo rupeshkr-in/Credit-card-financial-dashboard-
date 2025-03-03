@@ -14,17 +14,29 @@ Credit card financial dashboard using Power BI:
 Overview YTD:
 <br>
 • Overall revenue is 55M
+<br>
 • Total interest is 8M
+<br>
 • Total transaction amount is 45M
+<br>
 • Male customers are contributing more in transactions 25M, female 20M
+<br>
 • Blue & Silver credit card are contributing to 93% of overall transactions
+<br>
 • TX, NY & CA is contributing to 73%
+<br>
 • Overall Delinquent rate is 6.07%
 
+<br>
 
  Key Insights from the Dashboard:
+ <br>
 🔹 Transaction Growth Trends: Identifies whether transactions is increasing or declining.
+<br>
 🔹 Spending Patterns: Identifies where customers are using their credit cards the most.
+<br>
 🔹 Credit Utilization: Detects high utilization rates that might indicate potential defaults or opportunities for increasing credit limits.
+<br>
 🔹 Risk Identification: Pinpoints customer segments with increasing delinquency rates, allowing proactive risk management.
+<br>
 🔹 Customer Engagement: Helps target promotions and offers based on usage behavior.

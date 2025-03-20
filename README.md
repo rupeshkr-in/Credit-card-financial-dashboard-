@@ -9,7 +9,9 @@ Credit card financial dashboard using Power BI:
 
 • Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
-<br>
+## DASHBOARD
+![Credit card transaction report Image](https://github.com/rupeshkr-in/Credit_card_financial_dashboard/blob/main/Credit%20card%20transaction%20report.jpg)
+![Credit card customer report Image](https://github.com/rupeshkr-in/Credit_card_financial_dashboard/blob/main/Credit%20card%20customer%20report.jpg)
 
 Overview YTD:
 <br>

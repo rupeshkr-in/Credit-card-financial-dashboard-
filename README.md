@@ -13,7 +13,7 @@ Credit card financial dashboard using Power BI:
 ![Credit card transaction report Image](https://github.com/rupeshkr-in/Credit_card_financial_dashboard/blob/main/Credit%20card%20transaction%20report.jpg)
 ![Credit card customer report Image](https://github.com/rupeshkr-in/Credit_card_financial_dashboard/blob/main/Credit%20card%20customer%20report.jpg)
 
-Overview YTD:
+## Overview YTD:
 <br>
 • Overall revenue is 55M
 <br>
@@ -31,7 +31,7 @@ Overview YTD:
 
 <br>
 
- Key Insights from the Dashboard:
+## Key Insights from the Dashboard:
  <br>
 🔹 Transaction Growth Trends: Identifies whether transactions is increasing or declining.
 <br>
